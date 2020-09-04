@@ -25,3 +25,4 @@ let findPost = (mainArr, index) => {
 }
 
 findPost(mainArr, 1)
+//
